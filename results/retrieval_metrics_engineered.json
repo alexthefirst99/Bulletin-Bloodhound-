@@ -1,0 +1,8 @@
+{
+  "mode": "engineered",
+  "k": 5,
+  "n_questions": 24,
+  "hit_rate_at_k": 0.75,
+  "mrr_at_k": 0.5618055555555554,
+  "recall_at_k": 0.5465277777777778
+}

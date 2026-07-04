@@ -1,0 +1,180 @@
+{
+  "summary": {
+    "mode": "engineered",
+    "n_questions": 24,
+    "factual_accuracy": 0.0,
+    "groundedness": 1.0,
+    "hallucination_rate": 0.0,
+    "total_claims": 2
+  },
+  "per_question": [
+    {
+      "uid": "UID0008",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0010",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0019",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0042",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0054",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0066",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0068",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0072",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0078",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0079",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0081",
+      "factual_accuracy": 0.0,
+      "n_claims": 1,
+      "n_supported": 1,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0082",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0085",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0086",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0088",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0089",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0098",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0099",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0101",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0102",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0108",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0109",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0110",
+      "factual_accuracy": 0.0,
+      "n_claims": 1,
+      "n_supported": 1,
+      "n_fabricated": 0
+    },
+    {
+      "uid": "UID0111",
+      "factual_accuracy": 0.0,
+      "n_claims": 0,
+      "n_supported": 0,
+      "n_fabricated": 0
+    }
+  ]
+}
