@@ -81,6 +81,11 @@ Factual Accuracy is scored with the **official Databricks `reward.py`** (vendore
 `databricks/officeqa` GitHub repo, Apache 2.0), tolerance ±1%, so it's numerically comparable to the
 benchmark's own grading.
 
+**Note on Recall@5:** the benchmark only labels ground truth at the document level (`source_files_gt`),
+not at the snippet level, so Recall@5 here is computed as (ground-truth source documents retrieved in
+top-5) / (ground-truth source documents needed) rather than a literal relevant-snippets-found count -
+the closest computable proxy given the data available (`src/evaluate_retrieval.py`).
+
 **Read the Groundedness/Hallucination numbers with their denominators, not just the percentage.**
 22 of 24 engineered answers were "Not found in provided context" - a deliberate refusal the
 engineered system prompt encourages when the retrieved excerpts don't contain the answer. Refusals
