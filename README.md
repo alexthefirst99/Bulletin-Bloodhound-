@@ -1,6 +1,6 @@
 # Self Discovery Lab: The Financial RAG Challenge
 
-**Name:** [Your Name] **Recent Years Used:** 2015-2025 (11 years - see "Why 11 years" below)
+**Name:** Alex Tran **Recent Years Used:** 2015-2025 (11 years - see "Why 11 years" below)
 
 Data source: [databricks/officeqa](https://huggingface.co/datasets/databricks/officeqa) (Hugging Face, gated) - U.S.
 Treasury Bulletins, 1939-2025, transformed-to-Markdown TXT format.
